@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tyler.davis.mitchell@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tyler.davis.mitchell@gmail.com)](mailto:tyler.davis.mitchell@gmail.com)
 
 ## Hi 👋, 
-I'm Tyler Mitchell, I'm a software engineer with a passion for creating beautiful digital experiences
+I'm Tyler Mitchell, I'm a software engineer with a passion for creating beautiful digital experiences.
 
 
 ---
