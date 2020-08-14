@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://github.com/tyler-mitchell/github-readme-assets/blob/master/header.svg">
+	<a href="https://tyler-mitchell.github.io/portfolio/">
 		<img src="https://github.com/tyler-mitchell/github-readme-assets/blob/master/header.svg" width="100%" height="400">
 	</a>
 	<br>
