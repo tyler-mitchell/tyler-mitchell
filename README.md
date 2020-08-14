@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/tyler-mitchell/github-readme-assets/blob/master/header.svg">
-		<img src="https://github.com/tyler-mitchell/github-readme-assets/blob/master/header.svg" width="800" height="400">
+		<img src="https://github.com/tyler-mitchell/github-readme-assets/blob/master/header.svg" width="100%" height="400">
 	</a>
 	<br>
 </div>
